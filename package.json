@@ -1,0 +1,19 @@
+{
+  "name": "webscraper",
+  "version": "1.0.0",
+  "description": "Application to scrape a website of all its internal urls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshika Shete",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "jsdom": "^11.12.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "underscore": "^1.9.1"
+  }
+}
